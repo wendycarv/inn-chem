@@ -1,8 +1,8 @@
-# SMILES-to-Spectra and Spectra-to-SMILES Predictions with INNs & CNNs
+# SMILES-to-Spectra and Spectra-to-SMILES Predictions with INNs & MLPs
 
 This repository contains models and evaluation notebooks for learning a bidirectional mapping between SMILES (molecular structures) and molecular spectra using two approaches:
 
-- A **convolutional neural network** (NN)
+- A **multilayer perceptron** (NN)
 - An **invertible neural network** (INN)
 
 This project uses the `smiles2spec` repository (https://github.com/JeremCab/smiles2spec), which predicts spectra from SMILES using deep learning.
