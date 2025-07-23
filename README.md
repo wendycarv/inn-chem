@@ -7,7 +7,7 @@ This repository contains models and evaluation notebooks for learning a bidirect
 
 This project uses the `smiles2spec` repository (https://github.com/JeremCab/smiles2spec), which predicts spectra from SMILES using deep learning.
 
-All the files imported in the notebooks can be found in [this shared Google Drive folder]((https://drive.google.com/drive/folders/1jfgh5M7cyb9I0chqy6_LN1s1OAEzg9-e?usp=drive_link)) as well.
+All the files imported in the notebooks can be found in [this shared Google Drive folder](https://drive.google.com/drive/folders/1jfgh5M7cyb9I0chqy6_LN1s1OAEzg9-e?usp=drive_link) as well.
 
 ## Notebooks
 
